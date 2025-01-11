@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on detecting brain tumor using deep learning and computer vision<br>🤝 I’m looking for help with kubernetes<br>🌱 I’m currently learning kubernetes<br>💬 Ask me about AI, ML, full stack development and backend/frontend development<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shikhararora19&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=shikhararora19&icon=10&color=13)](https://visitcount.itsvg.in)
 
 
